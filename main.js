@@ -46,7 +46,6 @@ $(document).ready(function () {
       document.execCommand("copy");
     });
   
-  
     $(document).on("click", ".currency", function () {
   
       $("#mainInfo").empty();
