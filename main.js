@@ -124,7 +124,7 @@ $(document).ready(function () {
           "symbol": "CRYPTOCAP:" + coinSymbol,
           "interval": "1D",
           "timezone": "Etc/UTC",
-          "theme": "dark",
+          "theme": "light",
           "style": "1",
           "locale": "en",
           "toolbar_bg": "#333333",
