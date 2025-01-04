@@ -40,7 +40,6 @@ $(document).ready(function () {
   
     $("#copyBtn").on("click", function () {
       var copyText = document.getElementById("currencyOutput");
-  
       copyText.select();
       copyText.setSelectionRange(0, 99999);
       document.execCommand("copy");
