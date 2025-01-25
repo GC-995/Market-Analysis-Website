@@ -84,7 +84,7 @@ $(document).ready(function () {
               </div>
             </div>
       </div>`)
-  
+
       var currencyName = $(this).text();
       var coinTitle = document.getElementById("coinTitle");
       var coinSymbol = $(this).attr("id");
